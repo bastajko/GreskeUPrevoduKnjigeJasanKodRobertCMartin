@@ -2,11 +2,11 @@
 
 | # | Strana | Mesto na strani | Greška | Prepravka | Objašnjenje |
 |---|--------|----------------|--------|-----------|-------------|
-| [1](#1) | xi     | Poglavlje 16 | ~~SerijalDate~~ | **SerialDate** | Greška u nazivu klase; treba koristiti ispravan naziv klase. |
-| [2](#2) | 16     | Prvi primeri koda na strani | int ~~minutedTimeInDais~~; int ~~fileAgeInDais~~; | int **minutedTimeInDays**; **int fileAgeInDays;**  | Reč "spisak" se ne koristi u programerskim krugovima; ispravno je navesti tačnu strukturu podataka kao "lista". |
-| [3](#3) | 16     | Ispod primera koda funkcije `getThem` | ~~spisak~~ nizova | **lista** nizova | Reč "spisak" se ne koristi u programerskim krugovima; ispravno je navesti tačnu strukturu podataka kao "lista". |
-| [4](#4) | 17     | Primeri koda na vrhu i sredini strane | ~~nova~~ ArrayList<int[]>(); | **new** ArrayList<int[]>(); | Kod ne treba da se prevodi; dva puta je korišćena reč "nova" umesto `new`. |
-| [5](#1) | 271     | Naslov | ~~SerijalDate~~ | **SerialDate** | Greška u nazivu klase; treba koristiti ispravan naziv klase. |
+| [1](#1) | xi     | Poglavlje 16 | ~~SerijalDate~~ | **SerialDate** | Greška u nazivu klase, treba koristiti ispravan naziv klase. |
+| [2](#2) | 16     | Prvi primeri koda na strani | int ~~minutedTimeInDais~~; int ~~fileAgeInDais~~; | int **minutedTimeInDays**; **int fileAgeInDays;**  | Lapsus sa imenima promenljivih. |
+| [3](#3) | 16     | Ispod primera koda funkcije `getThem` | ~~spisak~~ nizova | **lista** nizova | Autor je mislio na strukturu podataka `lista`. |
+| [4](#4) | 17     | Primeri koda na vrhu i sredini strane | ~~nova~~ ArrayList<int[]>(); | **new** ArrayList<int[]>(); | Kod ne treba da se prevodi, dva puta je korišćena reč "nova" umesto `new`. |
+| [5](#1) | 271     | Naslov | ~~SerijalDate~~ | **SerialDate** | Greška u nazivu klase, treba koristiti ispravan naziv klase. |
 
 
 ---
